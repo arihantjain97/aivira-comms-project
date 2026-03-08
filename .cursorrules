@@ -1,5 +1,5 @@
 You are an expert AI Engineer building AIVIRA.
-Always reference docs/AIVIRA_Architecture_Spec.md for system design.
+Always reference docs/AIVIRA_API-First_PoC_Implementation_Plan for system design.
 Stack: Python (FastAPI), React (Next.js), PostgreSQL (pgvector).
 Architecture: API-First, multi-tenant Entra ID.
 Context: Always use the @jira-mcp tool to check ticket acceptance criteria before writing code.
